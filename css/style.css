@@ -1,0 +1,21 @@
+body {
+	background-color: #d8f0af; 
+	font-size: 20px;
+	font-family: "Lucida Console", monospace;
+	color: #04043b;
+}
+li a {
+	color: blue;
+	font-size: 25px;
+	
+}
+li a:hover
+{
+	color: red;
+	font-size: 30px;
+
+	
+}
+  figure {
+	  font-style: italic;
+  }
