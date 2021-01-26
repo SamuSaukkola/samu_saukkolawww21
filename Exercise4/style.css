@@ -1,0 +1,47 @@
+
+.col-sm-12
+{
+	padding: 100px;
+	text-align: center;
+	font-size: 30px;
+	height: 150px;
+	flex-wrap: wrap;
+	background-color: rgb(219, 253, 232);
+	float: center;
+}
+.col-sm-2
+{
+float: left;
+font-size: 20px;
+width: 15%;
+background-color: rgb(245, 221, 250);
+padding: 60px;
+min-height: 400px;
+flex-wrap: wrap;
+}
+.col-sm-10
+{
+float: right;
+width: 72%;
+min-height: 400px;
+font-size: 15px;
+padding: 60px;
+background-color: rgb(241, 235, 225);
+font-weight: bold;
+}
+.row 
+{
+float: left;
+}
+.footer
+{
+	position: fixed;
+	padding: 50px;
+	font-size:30px;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color:rgb(255, 245, 219);
+	color: black;
+	text-align: center;
+}
